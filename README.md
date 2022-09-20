@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sergiolopessp@gmail.com**
 
-- 📄 Know about my experiences [C++ Developer, Java Developer, Software Enginner, IT Specialist in backend. With my skills I have helped create one of the most robust Internet Banking in Latin America for over 19 years.](C++ Developer, Java Developer, Software Enginner, IT Specialist in backend. With my skills I have helped create one of the most robust Internet Banking in Latin America for over 19 years.)
+- 📄 Know about my experiences - C++ Developer, Java Developer, Software Enginner, IT Specialist in backend. With my skills I have helped create one of the most robust Internet Banking in Latin America for over 19 years.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
