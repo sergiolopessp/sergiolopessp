@@ -1,11 +1,7 @@
-<img align="left" alt="Coding" src="https://i.imgur.com/4oUAsYY.jpg">
 
-<p align="left">
-<br>
 <h1 align="center">Hi 👋, I'm Sérgio Lopes</h1>
 <img align="center" alt="Coding" width="400" src="https://i.imgur.com/vMKAQ86.gif">
 <h3 align="center">Developer, Geek, Garage Musician, Gamer and Father. I like everything that involves this wonderful universe of Java and Backend and lots of music, as long as it's of good quality.</h3>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolopessp&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolopessp" /> </p>
 
